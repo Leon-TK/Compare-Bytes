@@ -1,0 +1,14 @@
+﻿  ByteComparer.cpp
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(31,22): warning C4150: deletion of pointer to incomplete type 'IResult'; no destructor called
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(8): message : see declaration of 'IResult'
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(31,22): warning C4150: deletion of pointer to incomplete type 'ICompareAlgo'; no destructor called
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(9): message : see declaration of 'ICompareAlgo'
+  ABaseProgram.cpp
+  Impl_MainProgram.cpp
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(31,22): warning C4150: deletion of pointer to incomplete type 'IResult'; no destructor called
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(8): message : see declaration of 'IResult'
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(31,22): warning C4150: deletion of pointer to incomplete type 'ICompareAlgo'; no destructor called
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.h(9): message : see declaration of 'ICompareAlgo'
+E:\Source\to_git\SourceCodes\ByteComparerSln\ByteComparer\Impl_MainProgram.cpp(35,32): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  ByteComparer.vcxproj -> E:\Source\to_git\SourceCodes\ByteComparerSln\x64\Debug\ByteComparer.exe
